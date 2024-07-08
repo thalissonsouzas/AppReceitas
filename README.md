@@ -3,7 +3,7 @@
 
 
 <details>
-  <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
+
 
   Você irá explorar um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
 
